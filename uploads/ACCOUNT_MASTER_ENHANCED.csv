@@ -1,3 +1,0 @@
-account_no,entity_id,product_type,balance,credit_limit,facility_type,account_status,open_date
-OD00981,E1001,Overdraft,8500000,12000000,Overdraft,Active,2022-06-14
-LN88219,E1003,Term Loan,10000000,12000000,Loan,Active,2023-02-10

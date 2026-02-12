@@ -1,4 +1,0 @@
-case_id,issue_type,affected_entity,impact,resolution_needed
-CBUAE/2026/019,Role Ambiguity,E1002,Director vs Employee unclear,True
-CBUAE/2026/019,Name Mismatch,E1001,Spelling variation across systems,True
-CBUAE/2026/019,Transaction Purpose,E1001,Legitimacy of transfers unclear,True
