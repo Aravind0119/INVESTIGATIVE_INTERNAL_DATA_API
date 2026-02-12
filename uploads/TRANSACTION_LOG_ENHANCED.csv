@@ -1,0 +1,3 @@
+account_no,txn_date,amount,dr_cr,remarks,counterparty_entity_id,related_party_flag
+OD00981,2026-01-05,2500000,CR,Transfer from A.Faisal,E1002,True
+OD00981,2026-01-06,2400000,DR,RTGS-External,,False

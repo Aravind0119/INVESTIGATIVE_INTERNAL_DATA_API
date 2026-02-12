@@ -1,0 +1,5 @@
+entity_id,related_entity_id,relationship_type,evidence_source,confidence,confirmed_flag
+E1001,E1002,Employee,MOHRE,0.92,True
+E1001,E1002,Associated Person,NER,0.78,False
+E1003,E1002,Associated Person,NER,0.81,False
+E1001,E2001,Associated Person,NER,0.76,False

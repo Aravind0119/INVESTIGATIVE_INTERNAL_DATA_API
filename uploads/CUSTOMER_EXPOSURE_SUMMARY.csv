@@ -1,0 +1,4 @@
+entity_id,total_exposure,funded_exposure,non_funded_exposure,overdue_flag,last_updated
+E1001,4200000,3200000,1000000,False,2026-01-10
+E1002,180000,180000,0,False,2026-01-10
+E1003,2600000,2600000,0,True,2026-01-10

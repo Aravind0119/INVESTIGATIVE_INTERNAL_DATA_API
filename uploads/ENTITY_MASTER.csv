@@ -1,0 +1,5 @@
+entity_id,source_ref,entity_name,entity_type,confidence_score,primary_identifier,last_verified_date
+E1001,CN-45892,Al Noor Tradng LLC,Corporate,0.85,CN-45892,2026-01-10
+E1002,784-1987-2345678-1,Ahmed Faisal,Retail,0.8,784-1987-2345678-1,2026-01-10
+E1003,CN-88901,Desert Logistic FZCO,Corporate,0.82,CN-88901,2026-01-10
+E2001,NA,Mohd Saeed,Retail,0.7,NA,2026-01-10
