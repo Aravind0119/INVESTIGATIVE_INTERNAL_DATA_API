@@ -1,8 +1,0 @@
-transaction_id,account_id,transaction_date,amount,direction,counterparty_name,counterparty_account_reference,remarks,channel,transaction_type
-TXN1001,OD00981,2026-01-05,2500000,Credit,Ahmed Al Faisal,C2091,Transfer from A.Faisal,Online Banking,Fund Transfer
-TXN1002,OD00981,2026-01-06,2400000,Debit,External Beneficiary,RTGS-EXT-77821,RTGS-External,RTGS,Outgoing Transfer
-TXN2001,TXN2001,2026-01-04,2500000,Debit,Al Noor Tradng LLC,OD00981,Transfer to Al Noor Tradng LLC,Online Banking,Fund Transfer
-TXN3001,LN88219,2025-12-01,250000,Credit,EMI Payment,-,EMI Payment,Branch,Loan Repayment
-TXN3002,LN88219,2026-01-08,150000,Debit,Penalty Charges,-,Overdue Charges,System,Charge
-TXN2003,SB77821,2026-01-03,2500000,Debit,Al Noor Tradng LLC,OD00981,Fund Transfer,Online Banking,Fund Transfer
-TXN2004,LN88219,2025-12-01,500000,Credit,Internal Transfer,-,Loan Installment,Online Banking,Online Banking
