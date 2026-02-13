@@ -1,0 +1,4 @@
+account_id,customer_id,account_type,product_category,account_open_date,account_status,current_balance,Monthly_Average_Balance,credit_account_type,credit_limit,credit_outstanding,irac_status,overdue_amount,days_past_due,loan_sanction_date,loan_tenure_months,last_payment_date,collateral_type
+OD00981,C1029,Overdraft,Current Account,2019-06-01,Active,8500000,8200000,Overdraft,10000000,8500000,Regular,0,0,2019-06-01,60,2026-01-05,Corporate Guarantee
+LN88219,C3012,Term Loan,Loan Account,2019-09-15,Active,10000000,-,Term Loan,15000000,10000000,Overdue,250000,35,2019-09-15,84,2025-12-01,Warehouse Property
+SB77821,C2091,Savings,Savings Account,2020-03-11,Active,3200000,2850000,,0,0,,,,,,,
