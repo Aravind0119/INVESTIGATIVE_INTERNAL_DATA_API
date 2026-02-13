@@ -1,4 +1,0 @@
-customer_id,entity_name,constitution_type,customer_creation_date,customer_vintage_years,date_of_birth_or_incorporation,nationality_or_country_of_incorporation,residential_or_registered_address,identification_document_type,identification_number,mobile_number,email,kyc_risk_rating,customer_status
-C1029,Al Noor Tradng LLC,LLC,2018-05-14,7,2018-04-20,United Arab Emirates,"Office 402, Business Tower, Dubai",Trade License,CN-45892,0501239988,info@alnoortrading.ae,Medium,Active
-C2091,Ahmed Al Faisal,Individual,2020-03-11,5,1987-09-21,UAE,"Villa 21, Al Barsha, Dubai",Emirates ID,784-1987-2345678-1,0501239988,ahmed.faisal@email.com,Low,Active
-C3012,Desert Logistic FZCO,FZCO,2017-01-09,8,2016-12-15,United Arab Emirates,"Warehouse 18, JAFZA, Dubai",Trade License,CN-88901,0509988776,contact@desertlogistics.ae,Medium,Active
