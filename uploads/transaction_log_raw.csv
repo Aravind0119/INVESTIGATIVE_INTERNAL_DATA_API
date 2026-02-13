@@ -1,0 +1,3 @@
+transaction_id,account_id,transaction_date,amount,direction,counterparty_name,counterparty_account_reference,remarks,channel,transaction_type
+TXN1001,OD00981,2026-01-05,2500000,Credit,Ahmed Al Faisal,C2091,Transfer from A.Faisal,Online Banking,Fund Transfer
+TXN1002,OD00981,2026-01-06,2400000,Debit,External Beneficiary,RTGS-EXT-77821,RTGS-External,RTGS,Outgoing Transfer
